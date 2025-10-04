@@ -177,3 +177,11 @@ h2 {
     padding: 30px;
     
 }
+.input {
+    background: #4ce4c4;
+    padding: 10px;
+    border: #333;
+    border-radius: 10px;
+    color: black;
+    
+}
